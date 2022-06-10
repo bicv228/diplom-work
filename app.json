@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Diplom",
+    "slug": "Diplom",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Diplom"
+}
