@@ -52,6 +52,15 @@ export default class extends React.Component{
             return styles;
             }
     }
+    const styles = StyleSheet.create({
+    container: {
+        backgroundColor: '#fff',
+        borderColor: 'black',
+        borderRadius: 15,
+        borderWidth: 1,
+        width: '100%',
+        padding: 10,
+    }})
     render() {
         return(
             <ScrollView style = {styles.container}>
